@@ -1,0 +1,150 @@
+body {
+  background: #f87721;
+  color: #ffff;
+}
+
+.pie-1{
+  background: #f87721;
+}
+.pie-2{
+  background: #969696;
+}
+.pie-3{
+  background: #505050;
+}
+.pie-4{
+  background: #383838;
+}
+.pie-5{
+  background: #212529;
+}
+.pie-6{
+  background: #000000;
+}
+
+.nav-link {
+  color: #ffff;
+}
+
+.nav-link:hover {
+  color: #ffff;
+}
+
+.active1 {
+  color: #ffff;
+  border-bottom: 2px solid #f87721;
+}
+
+.logo-top {
+  font-weight: bolder;
+  font-size: x-large;
+  color: #ffff;
+}
+.logo-top:hover{
+  color: #ffff;
+}
+
+.login-div {
+  background-color: #ffff;
+  border-radius: 10px;
+}
+
+.login-box {
+  background-color: #000000;
+  border-radius: 10px;
+}
+
+.login-text-top {
+  border-bottom: 3px solid #f87721;
+}
+
+.input,
+input {
+  width: 100%;
+  max-width: 350px;
+}
+
+.note {
+  color: #ffff;
+  font-size: x-small;
+  text-decoration: none;
+}
+
+.note:hover {
+  color: #f87721;
+}
+
+.login-btn {
+  background: #f87721;
+  color: #ffff;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.login-btn:hover {
+  background: #ffff;
+  color: #f87721;
+}
+
+.close {
+  font-size: larger;
+  color: #ffff;
+  border: 0;
+}
+
+.logout {
+  background: #f87721;
+  color: #ffff;
+  font-weight: 500;
+}
+
+.logout:hover {
+  background: #696565d5;
+}
+
+.float-right {
+  float: right !important;
+}
+
+
+.pie{
+  color: #f87721;
+}
+
+.b-color{
+  background: #f87721;
+  color: #ffff;
+}
+.b-color:hover{
+  background: #f87721ce;
+  color: #ffff;
+}
+
+.box1{
+  width: 100%;
+}
+
+
+
+#dropdownMenuLink::after {
+  display: none;
+}
+
+.chart-pie {
+  position: relative;
+  height: 15rem;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .chart-pie {
+    height: calc(20rem - 43px) !important;
+  }
+}
+.border-c{
+  border-bottom: 5px solid #f87721;
+}
+
+.add-ticket{
+  width: 450px;
+}
